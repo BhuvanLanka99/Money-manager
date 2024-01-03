@@ -1,0 +1,67 @@
+/* Write your CSS here */
+
+.details-items {
+  list-style: none;
+  display: flex;
+  background-color: #ecfccb;
+  border: solid 1px #84cc16;
+  height: 120px;
+  width: 270px;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.details-items2 {
+  list-style: none;
+  display: flex;
+  background-color: #cffafe;
+  border: solid 1px #06b6d4;
+  height: 120px;
+  width: 270px;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.details-items3 {
+  list-style: none;
+  display: flex;
+  background-color: #ede9fe;
+  border: solid 1px #7c3aed;
+  height: 120px;
+  width: 270px;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.balance-pic {
+  height: 70px;
+  width: 70px;
+}
+
+.balance-cont {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+}
+
+.balance {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #7e858e;
+  font-weight: ;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.rupees {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #475569;
+  font-size: 20px;
+}

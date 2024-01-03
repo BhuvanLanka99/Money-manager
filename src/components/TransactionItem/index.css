@@ -1,0 +1,44 @@
+/* Write your CSS here */
+
+.list-transaction {
+  display: flex;
+  height: 50px;
+  border: solid 1px #7e858e;
+}
+
+.title {
+  font-size: ;
+  font-family: 'Roboto';
+  font-weight: 400;
+  margin-right: 50px;
+}
+
+.amount {
+  font-size: ;
+  font-family: 'Roboto';
+  font-weight: 400;
+  margin-right: 50px;
+}
+.type {
+  font-size: ;
+  font-family: 'Roboto';
+  font-weight: 400;
+  margin-right: 50px;
+}
+
+.press-button {
+  background-color: transparent;
+  border: 0px;
+  outline: none;
+  cursor: pointer;
+}
+
+.delete {
+  height: 30px;
+  width: 30px;
+  margin-right: 20px;
+}
+
+.card {
+  display: flex;
+}
